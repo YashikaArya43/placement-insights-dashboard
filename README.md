@@ -29,11 +29,10 @@ Simulated student data with 150+ records containing:
 
 ## 📸 Screenshots
 
-> Replace with real screenshots
-
 | CGPA vs Placement | Internship vs Placement |
 |------------------|--------------------------|
 | ![CGPA Chart](images/cgpa_vs_placement.png) | ![Internship Chart](images/internship_vs_placement.png) |
+
 
 ## 📎 Key Insight
 
